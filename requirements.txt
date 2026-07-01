@@ -1,0 +1,12 @@
+numpy==1.26.4
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+tensorflow==2.18.0
+keras==3.8.0
+scikit-learn==1.6.1
+h5py
+gradio==5.23.1
+huggingface_hub
+pillow
+gtts
+protobuf==4.25.9
