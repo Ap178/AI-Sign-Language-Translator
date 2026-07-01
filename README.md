@@ -340,13 +340,10 @@ inference/
 hello
 yes
 no
-please
 thank you
 help
 what
-same
 I
-forget
 ```
 
 ---
