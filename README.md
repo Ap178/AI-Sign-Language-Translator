@@ -368,7 +368,7 @@ I
 | Model                 | LSTM                  |
 | UI                    | Gradio                |
 | Deployment            | Hugging Face Spaces   |
-| Speech                | pyttsx3               |
+| Speech                | gTTS              |
 
 ---
 
